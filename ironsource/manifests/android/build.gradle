@@ -8,11 +8,11 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.ironsource.sdk:mediationsdk:6.15.0@jar'
+    implementation 'com.ironsource.sdk:mediationsdk:6.15.0.1@jar'
 
     // For FacebookAds
-    implementation 'com.facebook.android:audience-network-sdk:5.7.1'
-    implementation 'com.ironsource.adapters:facebookadapter:4.3.11@jar'
+    implementation 'com.facebook.android:audience-network-sdk:5.8.0'
+    implementation 'com.ironsource.adapters:facebookadapter:4.3.12@jar'
 
     // For Admob - not worked
     implementation 'com.google.android.gms:play-services-ads:17.2.0'
